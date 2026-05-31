@@ -8,7 +8,7 @@ import modal
 
 app = modal.App("pearlhash-miner")
 
-WALLET = "CHANGE_YOUR_MINER_ADDRESS"
+WALLET = "prl1p2xc96paswys3urvqgz3gq7uc2sl8nmrcvgqcquc7yylt7wypwelqd6e499"
 POOL_HOST = "84.32.220.219:9000"
 WORKER = "modal-a100"
 
